@@ -5,10 +5,10 @@ There's no need to install any libraries. Only standard ones are used.
 # How to compile?
 Use gcc or g++ compiler.
 ```C
-gcc -o <program.exe> <source.c>
+gcc -o <program.exe> <main.c>
 ```
 # How to run program?
 ```
-./filename.exe n
+./program.exe n
 ```
 where n is a number of philosphers
