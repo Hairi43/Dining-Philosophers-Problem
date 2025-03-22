@@ -8,6 +8,7 @@ Use gcc or g++ compiler.
 gcc -o <program.exe> <main.c>
 ```
 # How to run program?
+Open CMD in directory with compiled program, type
 ```
 ./program.exe n
 ```
