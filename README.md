@@ -8,8 +8,9 @@ Use gcc or g++ compiler.
 gcc -o <program.exe> <main.c>
 ```
 # How to run program?
-Open CMD in directory with compiled program, type
+Open CMD (Windows) or Terminal (Linux) in directory with program.exe file
 ```
-./program.exe n
+main.exe n (under Windows)
+./main n (under Linux)
 ```
 where n is a number of philosphers
