@@ -5,7 +5,7 @@ There's no need to install any libraries. Only standard ones are used.
 # How to compile?
 Use gcc or g++ compiler.
 ```C
-gcc -o <filename.exe> <source.c>
+gcc -o <program.exe> <source.c>
 ```
 # How to run program?
 ```
