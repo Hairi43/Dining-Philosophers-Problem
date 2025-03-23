@@ -3,9 +3,9 @@
 There's no need to install any libraries. Only standard ones are being used.
 
 # How to compile?
-Use gcc or g++ compiler.
+Use gcc compiler.
 ```C
-gcc -o <program.exe> <main.c>
+gcc -o program.exe main.c
 ```
 # How to run program?
 Open CMD (Windows) or Terminal (Linux) in directory with program.exe file
