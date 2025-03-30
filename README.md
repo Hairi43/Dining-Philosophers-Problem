@@ -11,7 +11,7 @@ sztućce - ograniczone zasoby (sekcja krytyczna)
 
 Sposób rozwiązania sekcji krytycznej:
 
-Zastosowałem semafor o wartości N / 2, który wprowadza jedynie N / 2 wątków do sekcji krytycznej (te dwa wątki mogą wziąć widelce bez kolizji z innymi wątkami).
+Zastosowałem semafor o wartości N / 2, który wprowadza jedynie N / 2 wątków do sekcji krytycznej (te dwa wątki mogą wziąć widelce bez kolizji z innymi wątkami). N to liczba filozofów.
 
 
 ## Dependencies
