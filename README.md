@@ -21,7 +21,7 @@ There's no need to install any libraries. Only standard ones are being used.
 ## How to compile?
 Use gcc compiler.
 ```C
-gcc -o program.exe main.c
+gcc -pthread -Werror -Wall -o program.exe main.c
 ```
 ## How to run program?
 Open CMD (Windows) in directory with program.exe file
